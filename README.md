@@ -1,1 +1,1 @@
-# CSCI-4380-InfectiousDiseaseModeling
+# CSCI-4830-InfectiousDiseaseModeling
